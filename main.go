@@ -9,6 +9,7 @@ import (
 )
 
 
+
 func main() {
 	var newline string = "\n"; if runtime.GOOS == "windows" { newline = "\r\n" }
 
